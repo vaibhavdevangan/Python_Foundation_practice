@@ -29,3 +29,4 @@ print("After 6 hours",f'{caff_level1:.2f}')
 print("After 12 hours:",f'{caff_level2:.3f}')
 print("After 24 hours:",f'{caff_level3:.2f}' )
 
+print()

@@ -15,3 +15,4 @@ gas_cost2= (75 / miles_per_gallon) * dollars_per_gallon
 gas_cost3= (500 / miles_per_gallon) * dollars_per_gallon
 
 print(f'{gas_cost1:.2f} {gas_cost2:.2f} {gas_cost3:.2f}')
+print()
